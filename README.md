@@ -16,3 +16,4 @@ ISO:[Emakefun](http://www.emakefun.com/en/download)</br>
 # Programming software download
 [Arduino IDE software download](https://www.arduino.cc/en/Main/Software?setlang=en)</br>
 [MagicBlock software download ](http://www.emakefun.com/en/download)</br>
+[Mixly software download ](http://mixly.org/)</br>
